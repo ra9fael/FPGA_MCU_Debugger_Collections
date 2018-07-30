@@ -6,6 +6,8 @@
 - [x] ## CMSIS-DAP两个版本-金手指版/microusb版
 
 
+- [x] ## STLINK V2 bootloader
+
 
   ##不懂的地方请加QQ1356781673, 可能会予以帮助
 
