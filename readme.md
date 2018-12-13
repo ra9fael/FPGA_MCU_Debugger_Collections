@@ -1,28 +1,20 @@
-# 各种MCU调试器的DIY
+# 🌠各种MCU调试器的DIY🌠
 
 
-- [x] ## STLINK V2-1(可升级的bootloader哦)
+- [x] ## :two:STLINK V2-1(可升级的bootloader哦)
 
-- [x] ## CMSIS-DAP两个版本-金手指版/microusb版
-
-
-- [x] ## STLINK V2 bootloader
+- [x] ## :three:CMSIS-DAP两个版本-金手指版/microusb版
 
 
+- [x] ## :five:STLINK V2(with bootloader)
 
 
-- [ ] ##BlackMagicProbe 制作
 
-  ##不懂的地方请加QQ1356781673, 可能会予以帮助
 
-  ##ヽ(￣ω￣(￣ω￣〃)ゝ
+- [ ] ## :eight:BlackMagicProbe 制作
 
-  ##制作成功的话请我喝杯饮料吧
+  **想要PCB样板可以联系窝Q1356781673，样板免费:free:，邮费自费:money_with_wings:**
 
-  ![](alipay.jpg)
+  **🎉打赏渠道:**
 
   ![](weixinpay.png)
-
-  
-
-  
