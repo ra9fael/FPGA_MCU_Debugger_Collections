@@ -1,0 +1,3 @@
+[submodule "hw-ftdi-jtag-xilinx"]
+	path = hw-ftdi-jtag-xilinx
+	url = https://github.com/konosubakonoakua/hw-ftdi-jtag-xilinx.git
